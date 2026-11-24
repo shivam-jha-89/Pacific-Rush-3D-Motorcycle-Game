@@ -1,6 +1,13 @@
 # Road Rash 2026 — Pacific Run
 
+**Designed & Developed by Shivam Kumar**  
+**Creator | UI/UX Designer | Frontend Developer**  
+© 2026 Shivam Kumar. All Rights Reserved.
+
 A browser-playable motorcycle combat racer inspired by the road readability and outlaw energy of the 1991 classic, rebuilt as an original first-person Three.js experience.
+
+Git clone - https://github.com/shivam-jha-89/Pacific-Rush-3D-Motorcycle-Game
+ Live Demo - https://pacific-rush-3-d-motorcycle-game.vercel.app/
 
 ## Run locally
 
